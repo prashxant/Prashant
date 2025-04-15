@@ -5,8 +5,9 @@ function App () {
 
   return (
     <>
-      <div>
-        </div>
+      <div className="h-screen bg-zinc-900 dark:bg-white" >
+        
+      </div>
     </>
   )
 }
