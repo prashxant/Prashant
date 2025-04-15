@@ -7,6 +7,7 @@ function App () {
     <>
           <div className="min-h-screen  bg-zinc-900 px-75 py-1.5" >
             <MainCard/>
+            
           </div>
       
     </>

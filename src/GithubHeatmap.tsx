@@ -7,7 +7,7 @@ function GitHubHeatmap() {
     contributions.filter((day :any) => new Date(day.date) >= startDate);
 
   return (
-    <div className='m-5  mt-0'>
+    <div className='mt-0 mr-5 ml-5'>
       <GitHubCalendar 
        username="prashxant"
       transformData={filterFromStartDate} />
