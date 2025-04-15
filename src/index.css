@@ -5,6 +5,7 @@
 
 @theme {
   --color-black-og: oklch(0.21 0.0059 285.89);
+  --color-col-yel: oklch(0.99 0.0364 107.04);
 }
 
 @theme inline {
