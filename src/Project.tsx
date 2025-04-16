@@ -86,6 +86,8 @@ function Project() {
              </div>
            </Card>
     ))}
+        
+
    </div>
   )
 }

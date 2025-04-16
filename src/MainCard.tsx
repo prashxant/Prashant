@@ -11,6 +11,8 @@ function MainCard() {
           <Intro/>
           <GithubHeatmap />
           <Project />
+          <span className="font-bold ml-5  text-4xl">Blogs</span>
+
           <Footer/>
         </Card>
     </div>
