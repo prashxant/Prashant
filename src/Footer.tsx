@@ -1,7 +1,7 @@
 const socialLinks = [
   {
     name: 'GitHub',
-    href: 'https://github.com/yourusername',
+    href: 'https://github.com/prashxant',
     icon: (
       <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" className="w-6 h-6 fill-current">
         <title>GitHub</title>
@@ -11,7 +11,7 @@ const socialLinks = [
   },
   {
     name: 'Gmail',
-    href: 'mailto:yourname@gmail.com',
+    href: 'mailto:notxdead0@gmail.com',
     icon: (
       <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" className="w-6 h-6">
         <title>Gmail</title>
@@ -21,7 +21,7 @@ const socialLinks = [
   },
   {
     name: 'X',
-    href: 'https://twitter.com/yourusername', 
+    href: 'https://twitter.com/_wiizaard', 
     icon: (
       <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" className="w-6 h-6">
         <title>X</title>
@@ -31,7 +31,7 @@ const socialLinks = [
   },
   {
     name: 'LinkedIn',
-    href: 'https://www.linkedin.com/in/yourusername',
+    href: 'https://www.linkedin.com/in/prashantshawrma',
     icon: (
       <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" className="w-6 h-6">
         <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
@@ -60,7 +60,7 @@ function Footer() {
         ))}
       </div>
       <p>© 2025 Prashant Sharma. All rights reserved.</p>
-      <p className="mt-2">Made with ❤️ by Prashant Sharma</p>
+      <p className="mt-2 text-col-yel">Made with ❤️ by Prashant Sharma</p>
     </footer>
   )
 }
