@@ -3,11 +3,8 @@ function Footer() {
   return (
     <div>
         <div className="w-[600px] ml-8 mt-0 h-px bg-zinc-800"></div>
-        <div>
-            <button>Github</button>
-            <button>Gmail</button>
-            <button>Tweeter</button>
-            <button>linkdin</button>
+        <div className="flex h-5">
+          
         </div>
         <div className="ml-40 mt-5">
         <p>© 2025 Prashant Sharma . All rights reserved.</p>
