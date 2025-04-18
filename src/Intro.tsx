@@ -7,7 +7,7 @@ function Intro() {
             <p className="font-bold text-4xl">Prashant Sharma </p> 
            <p className="py-1 opacity-50">Trying to understand why tech is so facinating</p>
            </span>
-            <img className="h-50   mr-5 border-1 rounded-full" src="./public/fevicon 1-modified.png" alt="" />
+            <img className="h-50   mr-5 border-1 rounded-full" src="./fevicon 1-modified.png" alt="" />
         </div>
         <div >
             <p className="font-bold text-4xl ml-5 ">Proof of Work</p>
