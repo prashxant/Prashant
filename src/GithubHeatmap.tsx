@@ -1,7 +1,7 @@
 import GitHubCalendar from 'react-github-calendar';
 
 function GitHubHeatmap() {
-  const startDate = new Date('2024-07-25');
+  const startDate = new Date('2024-07-30');
 
   const filterFromStartDate = (contributions:any) =>
     contributions.filter((day :any) => new Date(day.date) >= startDate);
@@ -15,4 +15,4 @@ function GitHubHeatmap() {
   );
 }
 
-export default GitHubHeatmap;
+export default GitHubHeatmap; 

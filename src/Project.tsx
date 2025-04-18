@@ -9,29 +9,29 @@ const projects = [
   {
     name:"Mr-Habbit",
     description:"Habbit tracking using Heatmaps ",
-    codebase:"Code",
-    live:"Live"
+    codebase:"https://github.com/prashxant/Mr-habbit",
+    live:"https://mr-habbit.vercel.app/"
   },
   {
     name:"Planner-Al",
     description:"Planning trips using AI",
-    codebase:"Code",
-    live:"Live"
+    codebase:"https://github.com/prashxant/Planner-Al",
+    live:"https://planner-al.vercel.app/"
   },{
     name:"Scribe-AI",
     description:"Note making AI app",
-    codebase:"Code",
-    live:"Live"
+    codebase:"https://github.com/prashxant/Scribe-AI",
+    live:"https://github.com/prashxant/Scribe-AI"
   },{
     name:"Boogymen",
     description:"Hostel Delivery System",
-    codebase:"Code",
-    live:"Live"
+    codebase:"https://github.com/prashxant/Boogymen-but-better",
+    live:"https://boogymen.netlify.app/"
   },{
     name:"Aquafine",
     description:"Fish estimation using AI-ML", 
-   codebase:"Code",
-    live:"Live"
+   codebase:"https://github.com/prashxant/Aquafine",
+    live:"https://github.com/prashxant/Aquafine"
   },
 ]
 
